@@ -1,8 +1,16 @@
 # 截屏翻译
 
+[![Release](https://img.shields.io/github/v/release/JesonAndFirst/screenshot-translate?label=%E4%B8%8B%E8%BD%BD&color=4c9aff)](https://github.com/JesonAndFirst/screenshot-translate/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/JesonAndFirst/screenshot-translate/total?label=%E4%B8%8B%E8%BD%BD%E9%87%8F)](https://github.com/JesonAndFirst/screenshot-translate/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078D6?logo=windows)](https://github.com/JesonAndFirst/screenshot-translate)
+[![Python](https://img.shields.io/badge/python-3.11%20%7C%203.12%20%7C%203.13-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+
 Windows 上按住一个热键 → 框选屏幕区域 → 自动 OCR + LLM 翻译，结果显示在一张悬浮卡片里。
 
 对标 Snipaste 的操作手感：**没有确认步骤**，松开鼠标就开始识别。
+
+> **不想折腾代码？** 到 [Releases](https://github.com/JesonAndFirst/screenshot-translate/releases/latest)
+> 下载 `截屏翻译-v0.1.0-win64.zip`，解压双击即可，不需要安装 Python。
 
 ## 功能
 
