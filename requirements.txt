@@ -1,0 +1,5 @@
+PySide6-Essentials>=6.6
+rapidocr>=3.0
+onnxruntime>=1.17
+numpy>=1.26
+requests>=2.31

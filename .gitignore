@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# 本地运行时数据（含 API Key，绝不能提交）
+.runtime/
+
+# 构建产物
+build/
+build_out/
+dist/
+dist_onedir/
+release/
+.pyinstaller/
+*.spec
+
+# OCR 模型（30MB，见 README 说明）
+models/
+
+# 日志
+*.log
